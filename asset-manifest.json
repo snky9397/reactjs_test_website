@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/reactjs_test_website/static/css/main.d1b05096.chunk.css",
-    "main.js": "/reactjs_test_website/static/js/main.aa7d22a3.chunk.js",
-    "main.js.map": "/reactjs_test_website/static/js/main.aa7d22a3.chunk.js.map",
-    "runtime-main.js": "/reactjs_test_website/static/js/runtime-main.ebbf96dd.js",
-    "runtime-main.js.map": "/reactjs_test_website/static/js/runtime-main.ebbf96dd.js.map",
-    "static/js/2.487873db.chunk.js": "/reactjs_test_website/static/js/2.487873db.chunk.js",
-    "static/js/2.487873db.chunk.js.map": "/reactjs_test_website/static/js/2.487873db.chunk.js.map",
-    "index.html": "/reactjs_test_website/index.html",
-    "precache-manifest.a51c1cf7fd38df0ca010394ed85f0261.js": "/reactjs_test_website/precache-manifest.a51c1cf7fd38df0ca010394ed85f0261.js",
-    "service-worker.js": "/reactjs_test_website/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/reactjs_test_website/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.487873db.chunk.js.LICENSE": "/reactjs_test_website/static/js/2.487873db.chunk.js.LICENSE",
-    "static/media/logo.svg": "/reactjs_test_website/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react_test_website/static/css/main.34de6062.chunk.css",
+    "main.js": "/react_test_website/static/js/main.ef97733b.chunk.js",
+    "main.js.map": "/react_test_website/static/js/main.ef97733b.chunk.js.map",
+    "runtime-main.js": "/react_test_website/static/js/runtime-main.9dc0c187.js",
+    "runtime-main.js.map": "/react_test_website/static/js/runtime-main.9dc0c187.js.map",
+    "static/css/2.f65acde2.chunk.css": "/react_test_website/static/css/2.f65acde2.chunk.css",
+    "static/js/2.ed798d31.chunk.js": "/react_test_website/static/js/2.ed798d31.chunk.js",
+    "static/js/2.ed798d31.chunk.js.map": "/react_test_website/static/js/2.ed798d31.chunk.js.map",
+    "index.html": "/react_test_website/index.html",
+    "precache-manifest.ea8c55ae0d35d863552fa8fcbd23bd04.js": "/react_test_website/precache-manifest.ea8c55ae0d35d863552fa8fcbd23bd04.js",
+    "service-worker.js": "/react_test_website/service-worker.js",
+    "static/css/2.f65acde2.chunk.css.map": "/react_test_website/static/css/2.f65acde2.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/react_test_website/static/css/main.34de6062.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.ebbf96dd.js",
-    "static/js/2.487873db.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.aa7d22a3.chunk.js"
+    "static/js/runtime-main.9dc0c187.js",
+    "static/css/2.f65acde2.chunk.css",
+    "static/js/2.ed798d31.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.ef97733b.chunk.js"
   ]
 }
