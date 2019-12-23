@@ -22,7 +22,7 @@ class Counter extends Component {
           onClick={() => this.handleIncrement(1)}
           className="btn btn-secondary btn-lg m-2 pl-2"
         >
-          Increment Button 1
+          Increment Button
         </button>
       </div>
     );
