@@ -1,0 +1,11 @@
+body,
+html {
+  height: 100%;
+}
+.bg {
+  background-image: url("https://www.designyourway.net/diverse/darkpat/COLOURlovers.com-Grey_Background.jpg");
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

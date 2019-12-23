@@ -7,15 +7,16 @@ class Page extends Component {
 
   render() {
     return (
-      <React.Fragment>
-        <div>
-          <img
-            src="https://www.designyourway.net/diverse/darkpat/COLOURlovers.com-Grey_Background.jpg"
-            className="rounded mx-auto d-block"
-            alt="?"
-          />
-        </div>
-      </React.Fragment>
+      <div className="bg">
+        <img
+          src={
+            "https://www.designyourway.net/diverse/darkpat/COLOURlovers.com-Grey_Background.jpg"
+          }
+          alt="?"
+        />
+      </div>
     );
   }
 }
+
+export default Page;
