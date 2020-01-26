@@ -20,14 +20,6 @@ export default props => {
       <a className="menu-item" href="/reactjs_test_website/reaction">
         React-ion
       </a>
-
-      {/* <a className="menu-item" href="/vue">
-        Vue
-      </a>
-
-      <a className="menu-item" href="/node">
-        Node
-      </a> */}
     </Menu>
   );
 };
