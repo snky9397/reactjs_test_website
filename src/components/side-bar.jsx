@@ -5,19 +5,19 @@ import { slide as Menu } from "react-burger-menu";
 export default props => {
   return (
     <Menu>
-      <a className="menu-item" href="/">
+      <a className="menu-item" href="/reactjs_test_website">
         Home
       </a>
 
-      <a className="menu-item" href="/galary">
+      <a className="menu-item" href="/reactjs_test_website/galary">
         Galary
       </a>
 
-      <a className="menu-item" href="/social">
+      <a className="menu-item" href="/reactjs_test_website/social">
         Social Media
       </a>
 
-      <a className="menu-item" href="/reaction">
+      <a className="menu-item" href="/reactjs_test_website/reaction">
         React-ion
       </a>
 
