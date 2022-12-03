@@ -5,7 +5,7 @@ import { slide as Menu } from "react-burger-menu";
 export default props => {
   return (
     <Menu>
-      <a className="menu-item" href="">
+      <a className="menu-item" href="#">
         Home
       </a>
 
