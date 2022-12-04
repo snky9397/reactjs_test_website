@@ -9,10 +9,13 @@
     "react-bootstrap": "^1.0.0-beta.16",
     "react-burger-menu": "^2.6.13",
     "react-scripts": "3.2.0",
-    "react-split-pane": "^0.1.89"
+    "react-split-pane": "^0.1.89",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "gh-pages": "^2.1.1"
   },
   "scripts": {
-    "start": "react-scripts --openssl-legacy-provider start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
@@ -33,10 +36,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^2.1.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
   }
 }
