@@ -7,7 +7,7 @@
     "bootstrap": "^4.1.1",
     "react-bootstrap": "^1.0.0-beta.16",
     "react-burger-menu": "^2.6.13",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "react-split-pane": "^0.1.89",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
