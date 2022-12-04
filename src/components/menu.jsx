@@ -5,7 +5,7 @@ class Menu extends Component {
   render() {
     return (
       <Navbar inverse fixed expand="lg" bg="dark" variant="dark">
-        <Navbar.Brand href="#home">Coach Buddy</Navbar.Brand>
+        <Navbar.Brand href="#home">Trips Toe</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto">

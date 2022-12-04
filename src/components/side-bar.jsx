@@ -9,6 +9,14 @@ export default props => {
         Home
       </a>
 
+      <a className="menu-item" href="book_now">
+        Book Now
+      </a>
+
+      <a className="menu-item" href="know_your_itinerary">
+        Know Your Itinerary
+      </a>
+
       <a className="menu-item" href="galary">
         Galary
       </a>
@@ -18,7 +26,7 @@ export default props => {
       </a>
 
       <a className="menu-item" href="reaction">
-        React-ion
+        About Us
       </a>
     </Menu>
   );
