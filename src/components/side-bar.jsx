@@ -2,7 +2,7 @@ import React from "react";
 
 import { slide as Menu } from "react-burger-menu";
 
-export default props => {
+export default function props() {
   return (
     <Menu>
       <a className="menu-item" href="home">
@@ -30,4 +30,4 @@ export default props => {
       </a>
     </Menu>
   );
-};
+}
