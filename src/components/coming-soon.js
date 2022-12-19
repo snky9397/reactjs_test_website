@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import "./coming-soon.css";
 
 export default function Props() {
-  const countDownDate = new Date("Dec 15, 2022 13:12:00").getTime();
+  const countDownDate = new Date("Jan 1, 2023 12:12:12").getTime();
 
   const [countDown, setCountDown] = useState(
     countDownDate - new Date().getTime()
